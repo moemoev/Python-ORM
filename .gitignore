@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Files from SoftUni provided for every setup
+main_app
+orm_skeleton
+caller.py
+manage.py
+requirements.txt
+
+# testfiles not needed 
+myFirstDjangoProject
+
+
+.idea
+
